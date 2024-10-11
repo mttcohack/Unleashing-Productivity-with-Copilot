@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio
+In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio and set up a Microsoft Learn plugin in Microsoft Teams. 
 
 ## Requirements
 
@@ -14,21 +14,23 @@ In this challenge-based hackathon, we will work together to create a quiz using 
 
 This hack will help you learn:
 
-- Create a quiz in Copilot Studio using your Azure account
+- Create a quiz in Copilot Studio using your Microsoft account
 - Create a Microsoft Learn agent in Teams (using your organisational account) 
-- Learning Objective 3
 
 ## Success Criteria
 
 ### Challenge 1
 
-- Success Criteria 1
+- Design a prompt using Copilot Studio and the AI Prompt Builder. 
+ ** Task:**
+  Create a quiz in Copilot Studio. URL: https://copilotstudio.microsoft.com/
+  Create a new prompt action
 - Success Criteria 2
 - Success Criteria 3
 
 #### Resources
 
-- [Resource 1](https://learn.microsoft.com)
+- [Resource 1](https://aka.ms/learn-ai-builder-prompting-guide)
 - [Resource 2](https://learn.microsoft.com)
 - [Resource 3](https://learn.microsoft.com)
 
