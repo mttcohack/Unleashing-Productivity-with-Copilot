@@ -14,8 +14,8 @@ In this challenge-based hackathon, we will work together to create a quiz using 
 
 This hack will help you learn:
 
-- Learning Objective 1
-- Learning Objective 2
+- Create a quiz in Copilot Studio using your Azure account
+- Create a Microsoft Learn agent in Teams (using your organisational account) 
 - Learning Objective 3
 
 ## Success Criteria
