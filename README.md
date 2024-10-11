@@ -6,9 +6,9 @@ In this challenge-based hackathon, we will work together to create a quiz using 
 
 ## Requirements
 
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Your @microsoft account
+- Copilot Studio
+- Microsoft Teams
 
 ## Learning Objectives
 
