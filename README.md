@@ -4,8 +4,6 @@
 
 In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio
 
-![image](./images/image.png)
-
 ## Requirements
 
 - Requirement 1
