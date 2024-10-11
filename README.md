@@ -22,8 +22,8 @@ This hack will help you learn:
 ### Challenge 1
 
 - Design a prompt using Copilot Studio and the AI Prompt Builder.
-  
- ** Task:**
+
+ **Task:**
   Create a quiz in Copilot Studio. URL: https://copilotstudio.microsoft.com/
   Create a new prompt action. Choose Model and adjust temperature setting. 
 - Test that the prompt works
