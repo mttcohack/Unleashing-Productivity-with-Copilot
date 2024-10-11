@@ -34,9 +34,9 @@ This hack will help you learn:
 - [Copilot Studio on Microsoft learn](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 - [Resource 3](https://learn.microsoft.com)
 
-### [Optional] Challenge 2
+### Challenge 2
 
-- Success Criteria 1
+- Create a Microsoft Learn agent using Copilot Studio in Microsoft Teams
 - Success Criteria 2
 - Success Criteria 3
 
