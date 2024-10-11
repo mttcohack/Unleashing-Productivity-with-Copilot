@@ -30,8 +30,8 @@ This hack will help you learn:
 * Test the action, this should launch Microsoft Teams
 #### Resources
 
-- [Resource 1](https://aka.ms/learn-ai-builder-prompting-guide)
-- [Resource 2](https://learn.microsoft.com)
+- [AI Builder Prompting Guide](https://aka.ms/learn-ai-builder-prompting-guide)
+- [Copilot Studio on Microsoft learn](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 - [Resource 3](https://learn.microsoft.com)
 
 ### [Optional] Challenge 2
