@@ -1,8 +1,8 @@
-# MTT CoHack Challenge : [Topic Name]
+# MTT CoHack Challenge : Unleashing Productivity with Copilot
 
 ## Introduction
 
-In this challenge-based hackathon, we will work together to ...
+In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio
 
 ![image](./images/image.png)
 
