@@ -23,11 +23,11 @@ This hack will help you learn:
 
 - Design a prompt using Copilot Studio and the AI Prompt Builder.
 
- **Task:**
-  Create a quiz in Copilot Studio. URL: https://copilotstudio.microsoft.com/
-  Create a new prompt action. Choose Model and adjust temperature setting. 
-- Test that the prompt works
-- Test the action, this should launch Microsoft Teams
+**Task:**
+Create a quiz in Copilot Studio. URL: https://copilotstudio.microsoft.com/
+Create a new prompt action. Choose Model and adjust temperature setting. 
+Test that the prompt works
+Test the action, this should launch Microsoft Teams
 #### Resources
 
 - [Resource 1](https://aka.ms/learn-ai-builder-prompting-guide)
