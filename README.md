@@ -38,5 +38,6 @@ This hack will help you learn:
 
 **Task:**
 * Create an agents using Copilot Studio in Microsoft Teams
-* The agent should have one or more sources where it will look for the source of information. You can add up to 20 sources. 
+* The agent should have one or more sources where it will look for the source of information. You can add up to 20 sources.
+* There should be references to the sources in the completion of the model so you can investigate that the information is correct. Test at least 3 prompts.
 
