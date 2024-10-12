@@ -32,16 +32,11 @@ This hack will help you learn:
 
 - [AI Builder Prompting Guide](https://aka.ms/learn-ai-builder-prompting-guide)
 - [Copilot Studio on Microsoft learn](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
-- [Resource 3](https://learn.microsoft.com)
+- [Create agents in Teams](https://learn.microsoft.com/en-us/microsoft-copilot-studio/microsoft-copilot-extend-copilot-extensions)
 
 ### Challenge 2
 
-- Create a Microsoft Learn agent using Copilot Studio in Microsoft Teams
-- Success Criteria 2
-- Success Criteria 3
+**Task:**
+* Create a Microsoft Learn agent using Copilot Studio in Microsoft Teams
+* The agent should utilise Microsoft Learn so your prompts can get completions from that library of resources. 
 
-#### Resources
-
-- [Resource 1](https://learn.microsoft.com)
-- [Resource 2](https://learn.microsoft.com)
-- [Resource 3](https://learn.microsoft.com)
