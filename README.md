@@ -37,6 +37,6 @@ This hack will help you learn:
 ### Challenge 2
 
 **Task:**
-* Create a Microsoft Learn agent using Copilot Studio in Microsoft Teams
-* The agent should utilise Microsoft Learn so your prompts can get completions from that library of resources. 
+* Create an agents using Copilot Studio in Microsoft Teams
+* The agent should have one or more sources where it will look for the source of information. You can add up to 20 sources. 
 
