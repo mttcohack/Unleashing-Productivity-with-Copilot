@@ -15,7 +15,7 @@ In this challenge-based hackathon, we will work together to create a quiz using 
 This hack will help you learn:
 
 - Create a quiz in Copilot Studio using your Microsoft account
-- Create a Microsoft Learn agent in Teams (using your organisational account) 
+- Create an agent in Teams (using your organisational account) 
 
 ## Success Criteria
 
