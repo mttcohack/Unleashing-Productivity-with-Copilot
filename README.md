@@ -25,7 +25,8 @@ This hack will help you learn:
 
 **Task:**
 * Create a quiz in [Copilot Studio](https://copilotstudio.microsoft.com "Copilot Studio")
-* Create a new prompt action. Choose Model and adjust temperature setting. 
+* Create a new prompt action. Choose Model and adjust temperature setting.
+* Define the input parameters that copilots, apps, or flows will use while invoking this prompt and refernce this for the prompt
 * Test that the prompt works
 * Test the action, this should launch Microsoft Teams
 #### Resources
