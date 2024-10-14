@@ -35,6 +35,7 @@ This hack will help you learn:
 - [Create agents in Teams](https://learn.microsoft.com/en-us/microsoft-copilot-studio/microsoft-copilot-extend-copilot-extensions)
 
 ### Challenge 2
+-Create an agent in Copilot Studio in Teams
 
 **Task:**
 * Create an agents using Copilot Studio in Microsoft Teams
