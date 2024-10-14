@@ -25,7 +25,7 @@ This hack will help you learn:
 
 **Task:**
 * Create a quiz based on RBAC (so you can ask RBAC-related questions in Teams using the agent)  in [Copilot Studio](https://copilotstudio.microsoft.com "Copilot Studio")
-* Create a new prompt action. Choose Model and adjust temperature setting.
+* Create a new prompt action. Choose Model and adjust temperature setting. (see the diffreence this makes)
 * Define the input parameters that copilots, apps, or flows will use while invoking this prompt and refernce this for the prompt. 
 * Test that the prompt works
 * Test the action, this should launch Microsoft Teams
