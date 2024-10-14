@@ -29,6 +29,8 @@ This hack will help you learn:
 * Define the input parameters that copilots, apps, or flows will use while invoking this prompt and refernce this for the prompt. 
 * Test that the prompt works
 * Test the action, this should launch Microsoft Teams
+
+(Tip: Library in Copilot Studio)
 #### Resources
 
 - [AI Builder Prompting Guide](https://aka.ms/learn-ai-builder-prompting-guide)
