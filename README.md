@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio and set up a Microsoft Learn plugin in Microsoft Teams. 
+In this challenge-based hackathon, we will work together to create a quiz using Copilot Studio and create an agent plugin in Microsoft Teams. 
 
 ## Requirements
 
